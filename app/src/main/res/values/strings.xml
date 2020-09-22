@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScoreApplication</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="add1" translatable="false">+1</string>
+    <string name="add2" translatable="false">+2</string>
+    <string name="add3" translatable="false">+3</string>
+    <string name="jia" translatable="false">Jia1</string>
+    <string name="fan_hui" translatable="false">Fanghui</string>
+    <string name="z_1" translatable="false">0</string>
+    <string name="text_score_a" translatable="false">0</string>
+    <string name="text_score_b" translatable="false">0</string>
+    <string name="t1" translatable="false">0</string>
+    <string name="t2" translatable="false">0</string>
+    <string name="zero" translatable="false">0</string>
+</resources>
